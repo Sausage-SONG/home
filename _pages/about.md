@@ -23,20 +23,20 @@ Education
 Research
 ======
 <div class="publication media">
-  <img src="\images\FSAA_model.png"
+  <img src="/images/FSAA_model.png"
      alt="Semi-Supervised Few-shot Atomic Action Recognition Model"
      class="publogo img-fluid float-left rounded g" width="300" a=""
      />
 
   <div class="media-body">
-    <p><strong><a href="\files\FSAA.pdf" target="_blank">
+    <p><strong><a href="/files/FSAA.pdf" target="_blank">
     Semi-Supervised Few-shot Atomic Action Recognition</a></strong>
     <!-- <span class="badge badge-danger">New!</span> -->
     <br>
     <b>Sizhe Song*</b>, Xiaoyuan Ni*, Yu-Wing Tai, Chi-Keung Tang (* Equal contribution) <br>
     <em>Tech Report.</em> <br>
     <span class="links">
-    <a href="\files\FSAA.pdf" target="_blank">[Paper]</a>
+    <a href="/files/FSAA.pdf" target="_blank">[Paper]</a>
     <!-- <a href="https://ryanxli.github.io/oneshot" target="_blank">[Project Page]</a> -->
     <a href="https://github.com/Sausage-SONG/Few-shot-action-recognition" target="_blank">[GitHub]</a>
     </span> </p>
