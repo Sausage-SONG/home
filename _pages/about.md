@@ -25,23 +25,19 @@ Education
 Research
 ======
 <div>
-  <div width="350">
-    <img src="https://sausage-song.github.io/home/images/FSAA_model.png"
-      alt="Semi-Supervised Few-shot Atomic Action Recognition Model"
-      class="publogo img-fluid float-left rounded g" width="300" a=""/>
-  </div>
+  <img src="https://sausage-song.github.io/home/images/FSAA_model.png"
+    alt="Semi-Supervised Few-shot Atomic Action Recognition Model"
+    class="publogo img-fluid float-left rounded g" width="300" a="" align="left"/>
 
-  <div width="350">
-    <p><strong><a href="https://sausage-song.github.io/home/files/FSAA.pdf" target="_blank">
-    Semi-Supervised Few-shot Atomic Action Recognition</a></strong>
-    <!-- <span class="badge badge-danger">New!</span> -->
-    <br>
-    <b>Sizhe Song*</b>, Xiaoyuan Ni*, Yu-Wing Tai, Chi-Keung Tang (* Equal contribution) <br>
-    <em>Tech Report.</em> <br>
-    <span class="links">
-    <a href="https://sausage-song.github.io/home/files/FSAA.pdf" target="_blank">[Paper]</a>
-    <!-- <a href="https://ryanxli.github.io/oneshot" target="_blank">[Project Page]</a> -->
-    <a href="https://github.com/Sausage-SONG/Few-shot-action-recognition" target="_blank">[GitHub]</a>
-    </span> </p>
-  </div>
+  <p><strong><a href="https://sausage-song.github.io/home/files/FSAA.pdf" target="_blank">
+  Semi-Supervised Few-shot Atomic Action Recognition</a></strong>
+  <!-- <span class="badge badge-danger">New!</span> -->
+  <br>
+  <b>Sizhe Song*</b>, Xiaoyuan Ni*, Yu-Wing Tai, Chi-Keung Tang (* Equal contribution) <br>
+  <em>Tech Report.</em> <br>
+  <span class="links">
+  <a href="https://sausage-song.github.io/home/files/FSAA.pdf" target="_blank">[Paper]</a>
+  <!-- <a href="https://ryanxli.github.io/oneshot" target="_blank">[Project Page]</a> -->
+  <a href="https://github.com/Sausage-SONG/Few-shot-action-recognition" target="_blank">[GitHub]</a>
+  </span> </p>
 </div>
