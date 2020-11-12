@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About
+======
 Sizhe Song is an undergraduate student at the Hong Kong University of Science and Technology ([HKUST](http://www.ust.hk/)). He studies a double major program of Computer Science and General Mathematics. He has great interests and several research experiences in computer vision field. He is currently seeking for a postgraduate education opportunity.
 
 Education
@@ -28,7 +30,7 @@ Research
      class="publogo img-fluid float-left rounded g" width="300" a=""
      />
 
-  <div class="media-body">
+  <div class="media-body", style="font-size:16px; color:#99324b;">
     <p><strong><a href="https://sausage-song.github.io/home/files/FSAA.pdf" target="_blank">
     Semi-Supervised Few-shot Atomic Action Recognition</a></strong>
     <!-- <span class="badge badge-danger">New!</span> -->
