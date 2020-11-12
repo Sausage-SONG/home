@@ -29,7 +29,7 @@ Research
     alt="Semi-Supervised Few-shot Atomic Action Recognition Model"
     class="publogo img-fluid float-left rounded g" width="300" a="" align="left"/>
 
-  <p><strong><a href="https://sausage-song.github.io/home/files/FSAA.pdf" target="_blank">
+  <p align="right"><strong><a href="https://sausage-song.github.io/home/files/FSAA.pdf" target="_blank">
   Semi-Supervised Few-shot Atomic Action Recognition</a></strong>
   <!-- <span class="badge badge-danger">New!</span> -->
   <br>
