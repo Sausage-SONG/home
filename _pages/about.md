@@ -24,13 +24,14 @@ Education
 
 Research
 ======
-<div class="publication media">
-  <img src="https://sausage-song.github.io/home/images/FSAA_model.png"
-     alt="Semi-Supervised Few-shot Atomic Action Recognition Model"
-     class="publogo img-fluid float-left rounded g" width="300" a=""
-     />
+<div>
+  <div width="350">
+    <img src="https://sausage-song.github.io/home/images/FSAA_model.png"
+      alt="Semi-Supervised Few-shot Atomic Action Recognition Model"
+      class="publogo img-fluid float-left rounded g" width="300" a=""/>
+  </div>
 
-  <div class="media-body", style="font-size:16px; color:#99324b;">
+  <div width="350">
     <p><strong><a href="https://sausage-song.github.io/home/files/FSAA.pdf" target="_blank">
     Semi-Supervised Few-shot Atomic Action Recognition</a></strong>
     <!-- <span class="badge badge-danger">New!</span> -->
