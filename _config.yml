@@ -84,7 +84,7 @@ author:
   avatar           : "sizhe.jpeg"
   bio              : "MPhil & BSc @ HKUST majored in Computer Science"
   location         : "Hong Kong"
-  employer         : "Shueng-Han Gary Chan"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=HbALOMgAAAAJ&hl"
   email            : "ssongad@connect.ust.hk"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/%E6%80%9D%E5%93%B2-%E5%AE%8B-900826204/"
+  linkedin         : "%E6%80%9D%E5%93%B2-%E5%AE%8B-900826204"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
