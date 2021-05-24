@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "(Andy) Sizhe Song"
   avatar           : "sizhe.jpeg"
-  bio              : "Undergradute @ HKUST majored in Computer Science and Mathematics"
+  bio              : "MPhil & BSc @ HKUST majored in Computer Science"
   location         : "Hong Kong"
-  employer         :
+  employer         : "Shueng-Han Gary Chan"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=HbALOMgAAAAJ&hl"
   email            : "ssongad@connect.ust.hk"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/%E6%80%9D%E5%93%B2-%E5%AE%8B-900826204/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
